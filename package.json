@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "typescript": "^5.5.3",
-    "vite": "^5.3.3"
+    "vite": "^5.3.4"
   },
   "dependencies": {
     "@builder.io/qwik": "^1.7.1",
@@ -18,7 +18,7 @@
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@mui/lab": "^5.0.0-alpha.172",
-    "@mui/material": "^5.16.1",
+    "@mui/material": "^5.16.4",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "@typescript-eslint/eslint-plugin": "^7.16.1",
