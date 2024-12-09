@@ -15,8 +15,8 @@
   "dependencies": {
     "@builder.io/qwik": "^1.11.0",
     "@builder.io/qwik-react": "^0.5.5",
-    "@emotion/react": "^11.13.5",
-    "@emotion/styled": "^11.13.5",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
     "@mui/lab": "^5.0.0-alpha.174",
     "@mui/material": "^5.16.9",
     "@types/react": "^18.3.14",
