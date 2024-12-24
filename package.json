@@ -13,7 +13,7 @@
     "vite": "^5.4.11"
   },
   "dependencies": {
-    "@builder.io/qwik": "^1.11.0",
+    "@builder.io/qwik": "^1.12.0",
     "@builder.io/qwik-react": "^0.5.5",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
@@ -27,7 +27,7 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-jsx-a11y": "^6.10.2",
-    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react": "^7.37.3",
     "prettier": "^3.4.2",
     "react": "18.3.1",
     "react-dom": "18.3.1"
