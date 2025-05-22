@@ -13,13 +13,13 @@
     "vite": "^5.4.19"
   },
   "dependencies": {
-    "@builder.io/qwik": "^1.13.0",
+    "@builder.io/qwik": "^1.14.1",
     "@builder.io/qwik-react": "^0.5.6",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@mui/lab": "^5.0.0-alpha.176",
     "@mui/material": "^5.17.1",
-    "@types/react": "^18.3.21",
+    "@types/react": "^18.3.22",
     "@types/react-dom": "^18.3.7",
     "@typescript-eslint/eslint-plugin": "^7.18.0",
     "@typescript-eslint/parser": "^7.18.0",
