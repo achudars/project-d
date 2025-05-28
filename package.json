@@ -10,26 +10,26 @@
   },
   "devDependencies": {
     "typescript": "^5.8.3",
-    "vite": "^5.4.19"
+    "vite": "^6.3.5"
   },
   "dependencies": {
     "@builder.io/qwik": "^1.14.1",
     "@builder.io/qwik-react": "^0.5.6",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
-    "@mui/lab": "^5.0.0-alpha.176",
-    "@mui/material": "^5.17.1",
-    "@types/react": "^18.3.23",
-    "@types/react-dom": "^18.3.7",
-    "@typescript-eslint/eslint-plugin": "^7.18.0",
-    "@typescript-eslint/parser": "^7.18.0",
-    "eslint": "^8.57.1",
-    "eslint-config-prettier": "^9.1.0",
+    "@mui/lab": "^7.0.0-beta.12",
+    "@mui/material": "^7.1.0",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "@typescript-eslint/eslint-plugin": "^8.33.0",
+    "@typescript-eslint/parser": "^8.33.0",
+    "eslint": "^9.27.0",
+    "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-jsx-a11y": "^6.10.2",
     "eslint-plugin-react": "^7.37.5",
     "prettier": "^3.5.3",
-    "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
   }
 }
