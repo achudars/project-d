@@ -1,5 +1,7 @@
 # Qwik + Vite
 
+![Project Screenshot](./img.png)
+
 ## Qwik in CSR mode
 
 This starter is using a pure CSR (Client Side Rendering) mode. This means, that the application is fully bootstrapped in the browser. Most of Qwik innovations however take advantage of SSR (Server Side Rendering) mode.
