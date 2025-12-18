@@ -13,8 +13,8 @@
     "vite": "^6.4.1"
   },
   "dependencies": {
-    "@builder.io/qwik": "^1.17.2",
-    "@builder.io/qwik-react": "^0.5.7",
+    "@builder.io/qwik": "^1.18.0",
+    "@builder.io/qwik-react": "^0.5.8",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mui/lab": "^7.0.0",
