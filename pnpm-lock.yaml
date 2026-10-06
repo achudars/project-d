@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       '@builder.io/qwik':
-        specifier: ^1.20.1
+        specifier: ^1.20.2
         version: 1.20.2(vite@8.3.3)
       '@builder.io/qwik-react':
         specifier: ^0.5.8
